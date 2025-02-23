@@ -3,7 +3,7 @@ project:
   title:        "tt_um_4Bit_SAR_ADC"      # Project title
   author:       "S, S, S, V"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  description:  "Converts Analog to Digital"      # One line description of what your project does
   language:     "Analog" # other examples include Verilog, Amaranth, VHDL, etc
   clock_hz:     5       # Clock frequency in Hz (or 0 if not applicable)
 
